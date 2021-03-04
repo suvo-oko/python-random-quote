@@ -12,3 +12,6 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Keep work visible
+Breathe light to breathe right
+Conversation is our superpower
