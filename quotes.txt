@@ -1,5 +1,5 @@
 Responsive is better than fast
-It’s not fully shipped until it’s fast
+It is not fully shipped until it is fast
 Anything added dilutes everything else
 Practicality beats purity
 Approachable is better than simple
@@ -15,3 +15,4 @@ Keep it logically awesome
 Keep work visible
 Breathe light to breathe right
 Conversation is our superpower
+Be radically transparent
