@@ -1,7 +1,7 @@
 import random  # a module to generate random numbers
 
 def primary():
-  f = open("quotes.txt", "a")
+  f = open("quotes.txt", "a")  # the a appends the content to the end of the file
   f.write("Be radically transparent\n")
   f = open("quotes.txt")
   quotes = f.readlines()
